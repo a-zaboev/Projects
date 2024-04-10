@@ -6,7 +6,7 @@
 #### ENG
 In this repository you can see my training projects, which, I think, can be used to judge my way of thinking and the skills of working with the data that I currently own. There are also my solutions that can be applied to analytical work in the company. I can vouch for such work and such conclusions.
 
-- Game_promo_statistics.ipynb - разведочный анализ, предобрабртка данных, формирование метрик, критерий Манна-Уитни, bootstrap, визуализация, аналитический вывод (приложение с играми).
-- Retention.ipynb - разведочный анализ, предобрабртка данных, разработка инструмента для подсчёта Retention, визуализация (приложение с играми).
-- dating app_statistics.ipynb - разведочный анализ, предобрабртка данных, формирование метрик, AB-тест, Хи-квадрат Пирсона, критерий Манна-Уитни, аналитический вывод (приложение знакомств).
-- delivery_app_statistics.ipynb - разведочный анализ, предобрабртка данных, формирование метрик, AB-тест, критерий Манна-Уитни, аналитический вывод (приложение доставки).
+- <b>Game_promo_statistics.ipynb</b> - разведочный анализ, предобрабртка данных, формирование метрик, критерий Манна-Уитни, bootstrap, визуализация, аналитический вывод (приложение с играми).
+- <b>Retention.ipynb</b> - разведочный анализ, предобрабртка данных, разработка инструмента для подсчёта Retention, визуализация (приложение с играми).
+- <b>dating app_statistics.ipynb</b> - разведочный анализ, предобрабртка данных, формирование метрик, AB-тест, Хи-квадрат Пирсона, критерий Манна-Уитни, аналитический вывод (приложение знакомств).
+- <b>delivery_app_statistics.ipynb</b> - разведочный анализ, предобрабртка данных, формирование метрик, AB-тест, критерий Манна-Уитни, аналитический вывод (приложение доставки).
