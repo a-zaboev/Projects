@@ -7,6 +7,7 @@
 - <b>Retention.ipynb</b> - разведочный анализ, предобработка данных, разработка инструмента для подсчёта Retention, визуализация (приложение с играми).
 - <b>dating app_statistics.ipynb</b> - разведочный анализ, предобработка данных, формирование метрик, AB-тест, Хи-квадрат Пирсона, критерий Манна-Уитни, аналитический вывод (приложение знакомств).
 - <b>delivery_app_statistics.ipynb</b> - разведочный анализ, предобработка данных, формирование метрик, AB-тест, критерий Манна-Уитни, аналитический вывод (приложение доставки).
+Проекты были сделаны в рамках прохождения курса "Аналитика данных" в karpov_courses.
 
 #### ENG
 In this repository you can see my training projects, which, I think, can be used to judge my way of thinking and the skills of working with the data that I currently own. There are also my solutions that can be applied to analytical work in the company. I can vouch for such work and such conclusions.
